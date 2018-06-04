@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\bin\Debug\netcoreapp2.0\TimeDisplay.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\bin\Debug\netcoreapp2.0\TimeDisplay.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\bin\Debug\netcoreapp2.0\TimeDisplay.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\bin\Debug\netcoreapp2.0\TimeDisplay.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\bin\Debug\netcoreapp2.0\TimeDisplay.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\obj\Debug\netcoreapp2.0\TimeDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\obj\Debug\netcoreapp2.0\TimeDisplay.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\obj\Debug\netcoreapp2.0\TimeDisplay.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\obj\Debug\netcoreapp2.0\TimeDisplay.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\obj\Debug\netcoreapp2.0\TimeDisplay.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\TimeDisplay\obj\Debug\netcoreapp2.0\TimeDisplay.csprojResolveAssemblyReference.cache
